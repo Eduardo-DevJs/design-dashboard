@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid-col-dash {
+    grid-template-columns: 256px 1fr;
+}
